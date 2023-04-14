@@ -1,6 +1,6 @@
 # Music Website
 
-This repository contains the code for a music website. The website is built using HTML, CSS, and JavaScript. It includes features like music playback, search functionality, and user authentication.
+This repository contains the code for a music website. The website is built using HTML, CSS, BootStrap and JavaScript for Front-End and uses NodeJS,Express JS for Back-End and MongoDB as Database. It includes features like music playback, search functionality, and user authentication.
 
 ## Table of Contents
 
